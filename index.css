@@ -1,0 +1,23 @@
+body {
+    background-image: url(https://akns-images.eonline.com/eol_images/Entire_Site/2016621/rs_1024x571-160721143958-1024.hey-arnold-arnold-2.ch.072116.jpg?fit=around%7C1024:571&output-quality=90&crop=1024:571;center,top);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px 0;
+    margin: 0;
+    text-align: center;
+}
+
+span {
+    border-bottom: 2px solid black;
+    padding: 4px;
+    color: wheat
+}
+
+button {
+    margin: 20px 0;
+    background: white;
+    color: black;
+    border: 1px solid black;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px 8px;
+}
